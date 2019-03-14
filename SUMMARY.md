@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [文前](wen-qian.md)
+* [文前](/preface.md)
 * 第一章
 * 第二章
 * 第三章
@@ -16,7 +16,10 @@
 * 第十二章
 * 第十三章
 * 附录A+B
-* [重点](zhong-dian.md)
-  * 值语义和引用语义相关概念澄清
-  * 函数项类型和函数指针类型
+* [重点](/key-point.md)
+  * [值语义和引用语义相关概念澄清](/key-point/onwership-semantic.md)
+  * [函数项类型和函数指针类型](/key-point/fn-item-and-fn-pointer.md)
+  * [对象安全](/key-point/object-safe.md)
+
+
 
