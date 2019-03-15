@@ -12,7 +12,7 @@
 
 第三章：  本性决定行为,本性取决于行为。 出自：罗伯特·穆齐尔 《没有个性的人》
 
-第四章： 
+第四章： 清空你的杯子，方能再行注满，空无以求全。出自： 李小龙
 
 第六章：语言影响或决定人类的思维方式。 出自： TED演讲：\[《语言如何塑造我们的思维方式》\]\([https://www.ted.com/talks/lera\_boroditsky\_how\_language\_shapes\_the\_way\_we\_think/transcript?language=zh-cn\](https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think/transcript?language=zh-cn%29\)
 
