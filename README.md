@@ -30,7 +30,9 @@
 
 第五章，讲所有权系统。所有权系统，就是Rust语言中的法律，而编译器，就是所有权「法律」的执行者。作为Rust语言使用者，应该牢记这一点，你应该做一个「懂法」的人，如果「不懂法」，那只会被编译器「就地正法」。
 
-第六章：语言影响或决定人类的思维方式。 出自： TED演讲：[《语言如何塑造我们的思维方式》](https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think/transcript?language=zh-cn)
+**第六章：语言影响或决定人类的思维方式。 出自： TED演讲：**[**《语言如何塑造我们的思维方式》**](https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think/transcript?language=zh-cn)
+
+
 
 第七章：形每万变，神唯守一。出自： 《斗拱》维基百科
 
