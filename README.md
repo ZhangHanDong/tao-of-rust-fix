@@ -16,7 +16,9 @@
 
 第五章：  律者，所以定分止争也。出自：《管子·七臣七主》
 
-第六章：语言影响或决定人类的思维方式。 出自： TED演讲：\[《语言如何塑造我们的思维方式》\]\([https://www.ted.com/talks/lera\_boroditsky\_how\_language\_shapes\_the\_way\_we\_think/transcript?language=zh-cn](https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think/transcript?language=zh-cn%29\)\)
+第六章：语言影响或决定人类的思维方式。 出自： TED演讲：\[《语言如何塑造我们的思维方式》\]\([https://www.ted.com/talks/lera\_boroditsky\_how\_language\_shapes\_the\_way\_we\_think/transcript?language=zh-cn](https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think/transcript?language=zh-cn%29%29\)
 
-第七章：
+第七章：形每万变，神唯守一。出自： 《斗拱》维基百科
+
+第八章：
 
